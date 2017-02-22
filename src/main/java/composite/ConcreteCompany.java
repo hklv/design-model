@@ -9,7 +9,7 @@ import java.util.List;
  */
 public class ConcreteCompany extends Company {
 
-    List<Company> children = new ArrayList<>();
+    List<Company> children = new ArrayList<Company>();
 
     public ConcreteCompany(String name) {
         super(name);
