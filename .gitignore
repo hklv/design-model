@@ -1,0 +1,10 @@
+target
+overlays
+.project
+.idea
+.settings
+*.iml
+.classpath
+*.classes
+*.jar
+*.war
